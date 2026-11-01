@@ -1,5 +1,5 @@
 # CSA02-1914260115-ASSIGNMENT-2
-# C Programming – Assignment 2 (CO2)
+
 
 ## Student Details
 
